@@ -1,0 +1,14 @@
+#fail, #success {
+    position: absolute;
+    top: 20px; right: 10px;
+}
+.img-background{
+    background-image: url(./img/matrix.png);
+}
+.black-background{
+    background-color: black;
+}
+.white-text{
+    color: aliceblue;
+
+}

@@ -1,0 +1,20 @@
+{
+  "name": "testjs",
+  "version": "1.0.0",
+  "description": "Un jeu",
+  "main": "script.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.4.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start:dev": "webpack-dev-server"
+  },
+  "author": "Florian PEREZ",
+  "license": "ISC",
+  "keywords": []
+}

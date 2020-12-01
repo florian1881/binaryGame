@@ -2,3 +2,4 @@ Change the background style since it's confusing (user feedback)
 Purge css > bootstrap 
 Change bootstrap > tailwind css 
 New interface mobile first 
+Find a way to do some leaderboard with results saved into something "bdd like"

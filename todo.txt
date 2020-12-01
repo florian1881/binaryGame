@@ -1,3 +1,4 @@
+gitignore need to be update (last update didn't work as expected) 
 Change the background style since it's confusing (user feedback) 
 Purge css > bootstrap 
 Change bootstrap > tailwind css 

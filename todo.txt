@@ -1,0 +1,4 @@
+Change the background style since it's confusing (user feedback) 
+Purge css > bootstrap 
+Change bootstrap > tailwind css 
+New interface mobile first 
